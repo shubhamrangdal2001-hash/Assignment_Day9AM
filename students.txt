@@ -1,0 +1,13 @@
+Name,Subject,Marks
+Aman,Math,88
+Priya,Physics,91
+Rahul,Math,76
+Sneha,Chemistry,83
+Vikram,Physics,67
+Pooja,Math,95
+Arjun,Chemistry,78
+Nisha,Physics,85
+Karan,Chemistry,90
+Divya,Math,72
+Rohan,Physics,88
+Meera,Chemistry,61
